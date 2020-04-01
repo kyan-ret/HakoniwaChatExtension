@@ -1,0 +1,6 @@
+name: HakoniwaChatExtension
+main: net.th_hakoniwa.HakoniwaChatExtension.HakoniwaChatExtension
+depend: ThRaceExtension,HakoniwaClanExtension
+author: Kyan
+version: 0.0.1-SNAPSHOT
+prefix: [HCC]
